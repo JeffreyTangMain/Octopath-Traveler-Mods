@@ -29,3 +29,10 @@ Capturable bosses now have a ~30% encounter rate.
 
 # Guaranteed Caits
 Highest level Caits guaranteed to show up except in areas with capturable bosses.
+
+# Fixed Better Descriptions
+Based on https://www.nexusmods.com/octopathtraveler/mods/16
+
+Changed "Attack:" to "Equip:" on the Battle-tested Blade. 
+Changed "for the duration of the battle" to "for 2 turns" on the Intimidate skill.
+Adds sell prices to "junk" items.
