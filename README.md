@@ -22,7 +22,7 @@ Damage cap is now 999,999 by default (Does not show properly above 99,999).
 Stat Cap is now 9,999.
 Passives with 100% trigger rate and changed descriptions:
     - Eye for an Eye DANCER_001, Resist Ailments ALCHEMIST_001, Intimidate WIZARD_001, Endless Items MERCHANT_002, Incidental Attack THIEF_002, Second Serving HUNTER_002, Patience HUNTER_004, Divine Aura ASTRONOMY_004.
-Weapon passives work 100% of the time.
+Weapon passives and item effects work 100% of the time.
 Tressa's Eye for Treasure takes very little walking to max out.
 
 Capturable bosses now have a ~30% encounter rate.
